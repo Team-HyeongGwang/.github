@@ -1,6 +1,6 @@
 # ✨ Highlite : Just highlight. We'll do the rest.
 
-> 2026-1 데이터종합분석(캡스톤) | 팀 형광단  
+> 2026-1 데이터종합분석(캡스톤)  |  팀 형광단  
 > 기간: 2026.03 ~ 2026.06
 
 </br>
@@ -56,8 +56,8 @@
 
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
 
-<!-- <img width="1164" height="796" alt="highlite_architecture" src="https://github.com/user-attachments/assets/775097d6-7063-436c-9121-1941cf77ec92" />
- -->
+<img width="1164" height="796" alt="highlite_architecture" src="https://github.com/user-attachments/assets/5854d0a1-0c5c-425c-983a-ce00fdab7125" />
+
 
 ### 𝗠𝘂𝗹𝘁𝗶-𝗔𝗴𝗲𝗻𝘁 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲
 
